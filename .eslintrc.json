@@ -12,6 +12,7 @@
   "plugins": ["@typescript-eslint"],
   "root": true,
   "rules": {
-    "@typescript-eslint/consistent-type-definitions": 0
+    "@typescript-eslint/consistent-type-definitions": 0,
+    "@typescript-eslint/no-floating-promises": 0
   }
 }
